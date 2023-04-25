@@ -65,16 +65,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I am developing myself in the fields of front-end and UI / UX.
-      I aim to create responsive websites that are both user-friendly and visually appealing.
-      I share my projects on{' '}
+        I’m a software engineer specializing in building (and occasionally designing) exceptional
+        digital experiences. Currently, I’m focused on building accessible, human-centered products
+        at{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Github
+          Upstatement
         </a>
-        and
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Behance
-        </a>
+        .
       </p>
     </>
   );
@@ -84,7 +81,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      My Resume!
+      Check out my course!
     </a>
   );
 
