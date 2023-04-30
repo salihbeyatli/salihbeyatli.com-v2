@@ -71,7 +71,7 @@ const Hero = () => {
         <a href="https://github.com/salihbeyatli" target="_blank" rel="noreferrer">
           GitHub 
         </a>
-      and{' '}
+      &nbsp;and{' '}
         <a href="https://behance.com/salihbeyatli" target="_blank" rel="noreferrer">
           Behance
         </a>
