@@ -3,7 +3,7 @@ date: '2017-12-22'
 title: 'Front End Developer'
 company: 'Beyat Door'
 location: 'Kayseri, TR'
-range: 'January 2020 - May 2020'
+range: 'January 2020 - May 2022'
 url: 'https://beyatdoor.com/'
 ---
 
