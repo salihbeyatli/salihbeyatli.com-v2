@@ -69,7 +69,7 @@ const Hero = () => {
       I aim to create responsive websites that are both user-friendly and visually appealing. 
       I share my projects on{' '}
         <a href="https://github.com/salihbeyatli" target="_blank" rel="noreferrer">
-          GitHub
+          GitHub 
         </a>
       and{' '}
         <a href="https://behance.com/salihbeyatli" target="_blank" rel="noreferrer">
