@@ -3,7 +3,7 @@ date: '3'
 title: 'Hulu Web Clone'
 cover: './demo.png'
 external: 'https://salihbeyatli.github.io/Hulu-Webpage-Clone/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/salihbeyatli/Hulu-Webpage-Clone'
 tech:
   - Html
   - Css
