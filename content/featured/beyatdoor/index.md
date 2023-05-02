@@ -2,9 +2,9 @@
 date: '1'
 title: 'Beyat Door'
 cover: './demo.png'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://beyatdoor.com/'
 tech:
   - Wordpress
 ---
 
-deneme.
+Translated from the architect themed website. Rebuilt using wordpress.
