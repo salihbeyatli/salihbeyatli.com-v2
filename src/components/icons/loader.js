@@ -23,7 +23,7 @@ const IconLoader = () => (
                   L 89, 28 z"
       />
     </g>
-    <text text-anchor="start" font-family="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif" font-size="50" y="30" x="21" strokewidth="4" stroke="#64FFDA" fill="#64FFDA">
+    <text text-anchor="start" transform="translate(11.000000, 5.000000)" font-family="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif" font-size="50" y="100" x="50" strokewidth="4" stroke="#64FFDA" fill="#64FFDA">
     S
     </text>
   </svg>
