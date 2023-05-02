@@ -7,7 +7,7 @@ module.exports = {
       'Salih Beyatlı is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://salihbeyatli.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@baykuscello',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
