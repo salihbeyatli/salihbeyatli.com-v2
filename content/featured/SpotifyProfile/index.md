@@ -1,13 +1,15 @@
 ---
 date: '2'
-title: 'Light Portfolio'
-cover: './lightportfolio.png'
-github: 'https://github.com/salihbeyatli/Light-Portfolio'
-external: ''
+title: 'Spotify Profile'
+cover: './demo.png'
+github: 'https://github.com/bchiang7/spotify-profile'
+external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - Html
-  - Css
-  - Javascript
+  - React
+  - Styled Components
+  - Express
+  - Spotify API
+  - Heroku
 ---
 
-It has a custom cursor. A Photographer portfolio site made with html, css and javascript.
+A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
