@@ -7,7 +7,6 @@ range: 'July 2019 - January 2020'
 url: 'https://denizmedia.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and Bootstrap.
+- Tested sites in various browsers and devices to ensure cross browser compatibility and mobile responsiveness.
+- Interfaced with clients on a weekly basis, providing technological expertise and knowledge.

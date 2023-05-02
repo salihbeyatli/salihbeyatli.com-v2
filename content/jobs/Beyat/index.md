@@ -7,7 +7,7 @@ range: 'January 2020 - May 2022'
 url: 'https://beyatdoor.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, jQuery and Bootstrap.
+- Tested sites in various browsers and devices to ensure cross browser compatibility and mobile responsiveness.
+- Write modern, performant, and robust code for a diverse array of client and internal projects.
+- Work with a variety of different languages, frameworks, and content management systems such as JavaScript, WordPress, Webflow, etc.
