@@ -1,9 +1,8 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Beyat Door'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://beyatdoor.com/'
 tech:
   - VS Code
   - Sublime Text

@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Hulu Web Clone'
 cover: './demo.png'
+github: 'https://github.com/salihbeyatli/Hulu-Webpage-Clone'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - React
   - Express

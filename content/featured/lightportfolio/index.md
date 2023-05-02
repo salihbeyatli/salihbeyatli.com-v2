@@ -1,8 +1,8 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Light Portfolio'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/salihbeyatli/Light-Portfolio'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
