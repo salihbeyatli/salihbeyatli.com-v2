@@ -241,7 +241,7 @@ ArchivePage.propTypes = {
 };
 
 export default ArchivePage;
-
+// Archive Links Control
 export const pageQuery = graphql`
   {
     allMarkdownRemark(
@@ -256,8 +256,6 @@ export const pageQuery = graphql`
             tech
             github
             external
-            ios
-            android
             company
           }
           html
