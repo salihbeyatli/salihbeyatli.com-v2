@@ -6,6 +6,7 @@ const IconBehance = () => (
     role="img"
     viewBox="0 0 24 24"
     fill="currentColor"
+    stroke="currentColor"
     strokeWidth="2"
     strokeLinecap="round"
     strokeLinejoin="round"
