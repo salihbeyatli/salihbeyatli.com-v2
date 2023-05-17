@@ -7,12 +7,16 @@ module.exports = {
       url: 'https://github.com/salihbeyatli',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/salihbeyatl%C4%B1/',
+      name: 'Behance',
+      url: 'https://www.behance.net/salihbeyatli',
     },
     {
       name: 'Codepen',
       url: 'https://codepen.io/slhbytl',
+    },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/salihbeyatl%C4%B1/',
     },
   ],
 
