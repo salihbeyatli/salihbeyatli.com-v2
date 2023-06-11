@@ -1,6 +1,6 @@
 ---
 date: '2017-12-22'
-title: 'Front End Developer'
+title: 'Junior Web Developer'
 company: 'Beyat Door'
 location: 'Kayseri, TR'
 range: 'January 2020 - March 2021'

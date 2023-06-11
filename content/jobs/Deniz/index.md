@@ -1,6 +1,6 @@
 ---
 date: '2017-12-21'
-title: 'Intern Front End Developer'
+title: 'Intern Web Developer'
 company: 'Deniz Media Interactive'
 location: 'Kayseri, TR'
 range: 'July 2019 - January 2020'
