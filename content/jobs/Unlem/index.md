@@ -1,5 +1,5 @@
 ---
-date: '2017-12-22'
+date: '2017-12-23'
 title: 'Front-end Developer'
 company: 'Unlem Bilisim'
 location: 'Kayseri, TR'
