@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'jQuery', 'Html', 'Css/SASS', 'Bootstrap 5', 'WordPress', 'Webflow', 'Netlify'];
+  const skills = ['JavaScript (ES6+)', 'Html', 'TypeScript', 'Css/SASS', 'Vue.js', 'Bootstrap 5', 'jQuery', 'Netlify', 'Webflow'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
