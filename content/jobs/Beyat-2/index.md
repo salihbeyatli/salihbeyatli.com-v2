@@ -1,9 +1,9 @@
 ---
-date: '2017-12-23'
-title: 'Junior Web Developer'
+date: '2017-12-22'
+title: 'Intern Web Developer'
 company: 'Beyat Door'
 location: 'Kayseri, TR'
-range: 'May 2020 - March 2021'
+range: 'January 2020 - May 2020'
 url: 'https://beyatdoor.com/'
 ---
 

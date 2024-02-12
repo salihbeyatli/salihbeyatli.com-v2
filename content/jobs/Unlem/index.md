@@ -1,9 +1,9 @@
 ---
-date: '2017-12-23'
+date: '2017-12-24'
 title: 'Front-end Developer'
 company: 'Unlem Bilisim'
 location: 'Kayseri, TR'
-range: 'July 2023 - December 2021'
+range: 'July 2023 - December 2023'
 url: 'https://unlembilisim.com/'
 ---
 
